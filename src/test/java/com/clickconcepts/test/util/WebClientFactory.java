@@ -1,4 +1,4 @@
-package com.dynacrongroup.test.util;
+package com.clickconcepts.test.util;
 
 import com.gargoylesoftware.htmlunit.BrowserVersion;
 import com.gargoylesoftware.htmlunit.WebClient;

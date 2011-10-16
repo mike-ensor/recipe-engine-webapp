@@ -1,4 +1,4 @@
-package com.dynacrongroup.web.controller;
+package com.clickconcepts.web.controller;
 
 import com.dynacrongroup.test.util.WebClientFactory;
 import com.gargoylesoftware.htmlunit.WebClient;

@@ -1,4 +1,4 @@
-package com.dynacrongroup.web.controller;
+package com.clickconcepts.web.controller;
 
 import org.junit.Before;
 import org.junit.Test;
