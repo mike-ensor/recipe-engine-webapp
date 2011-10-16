@@ -1,0 +1,9 @@
+This is a simple application designed to be used for cloud based testing, more specifically
+coudfoundry.org, appfog.com and other open source controlled PaaS public clouds
+
+My intention is to provide a way to have a person (via any OAuth) share how they feel, 
+then possibly post on FB, G+, twitter or other social media platform?  This data can be 
+compiled to make projections on how people feel using MapReduce or something else 
+that can show off some load
+
+This won't be a very fancy app, very simple, mostly to test the cloud companies
