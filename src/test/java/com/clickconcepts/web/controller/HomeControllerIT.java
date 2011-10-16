@@ -1,13 +1,12 @@
 package com.clickconcepts.web.controller;
 
-import com.dynacrongroup.test.util.WebClientFactory;
+import com.clickconcepts.test.util.WebClientFactory;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
 import org.junit.Before;
 import org.junit.Test;
 
 import static java.lang.String.format;
-
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.notNullValue;
 import static org.hamcrest.Matchers.startsWith;
